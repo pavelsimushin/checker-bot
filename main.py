@@ -11,7 +11,7 @@ url = ''
 period = None
 timeformat = "%Y-%m-%d %H:%M:%S"
 
-bot = telebot.TeleBot('1728665340:AAE13IkYdGgl4Y3guc058Qs8SezNeItbYOY')
+bot = telebot.TeleBot('token')
 
 
 def get_gcd():
