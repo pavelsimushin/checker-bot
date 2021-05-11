@@ -7,8 +7,6 @@ import telebot
 from bs4 import BeautifulSoup
 from telegram.ext import Updater
 
-token = '1850038536:AAFzS5Zzc44juT2eD2F3MebZVW91-yfGgwE'
-
 # name = ''
 url = ''
 period = None
